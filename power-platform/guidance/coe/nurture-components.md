@@ -36,7 +36,7 @@ The CoE nurture components solution contains assets relevant to everyone in the 
 
 ### Apps
 
-#### Video hub - admin
+#### Nurture apps - Admin (Video hub - admin)
 
 A model driven app, designed for administrators and/or moderators of the video hub.  Users of this app can add video content, manage comment status and playlists.
 
